@@ -1,1 +1,1 @@
-# -beauty-data-collect
+# beauty-data-collect
